@@ -1,0 +1,3 @@
+[submodule "docs/extras"]
+	path = docs/extras
+	url = https://github.com/ktock/demo-images-extra.git
