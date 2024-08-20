@@ -6,6 +6,10 @@ from [here](https://github.com/ktock/container2wasm-demo) and uses it to run a
 This is just for fun and runs about as well as you would
 expect from three VMs stacked on top of each other.
 
+**This page downloads about ~500mb of wasm file**s!
+
+![browser-screenshot.png](browser-screenshot.png)
+
 Page: https://3arthqu4ke.github.io/hmc-container2wasm/
 
 ## Building images
