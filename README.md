@@ -1,3 +1,8 @@
+> [!WARNING]
+> Had to take down the page. It downloaded ~500mb of wasm files everytime, so this organizations data limits were quickly exceeded.  
+> The performance was questionable to say the least.
+
+
 # HeadlessMc-Container2WASM
 
 This page takes the [container2wasm](https://github.com/ktock/container2wasm) demo
